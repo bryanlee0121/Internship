@@ -1,3 +1,3 @@
 # Internship
 
-This is the repository for my Internship with CCG
+This is the repository for my Internship
